@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Titanic - Machine Learning from Disaster](/titanic/Titanic_kaggle_250622.ipynb)
+[Titanic - Machine Learning from Disaster](https://colab.research.google.com/drive/1ueSCqBL6LggfvaKlFWmunGxBrVTqzETD?usp=sharing)
 <img src="titanic/titanic.png?raw=true"/>
 
 ---
