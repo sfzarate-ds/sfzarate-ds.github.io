@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Titanic - Machine Learning from Disaster](/sample_page)
+[Titanic - Machine Learning from Disaster](/titanic/Titanic_kaggle_250622.ipynb)
 <img src="sfzarate-ds.github.io/titanic/titanic.png?raw=true"/>
 
 ---
